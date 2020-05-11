@@ -21,6 +21,8 @@
 		5C707C7424684D1500C5ADFC /* ArcadePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C707C7324684D1500C5ADFC /* ArcadePage.swift */; };
 		5C707C7624684D2000C5ADFC /* SearchPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C707C7524684D2000C5ADFC /* SearchPage.swift */; };
 		5C707C7824684D4000C5ADFC /* TabBarPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C707C7724684D4000C5ADFC /* TabBarPage.swift */; };
+		5C707C7A24688D8600C5ADFC /* FeaturedPostPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C707C7924688D8600C5ADFC /* FeaturedPostPage.swift */; };
+		5C707C7C2468B72100C5ADFC /* HorizontalScrollPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C707C7B2468B72100C5ADFC /* HorizontalScrollPage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +63,8 @@
 		5C707C7324684D1500C5ADFC /* ArcadePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArcadePage.swift; sourceTree = "<group>"; };
 		5C707C7524684D2000C5ADFC /* SearchPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchPage.swift; sourceTree = "<group>"; };
 		5C707C7724684D4000C5ADFC /* TabBarPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarPage.swift; sourceTree = "<group>"; };
+		5C707C7924688D8600C5ADFC /* FeaturedPostPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeaturedPostPage.swift; sourceTree = "<group>"; };
+		5C707C7B2468B72100C5ADFC /* HorizontalScrollPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HorizontalScrollPage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,7 +120,9 @@
 				5C707C4124684CB500C5ADFC /* ContentView.swift */,
 				5C707C4524684CB700C5ADFC /* Preview Content */,
 				5C707C6D24684CF600C5ADFC /* TodayPage.swift */,
+				5C707C7924688D8600C5ADFC /* FeaturedPostPage.swift */,
 				5C707C6F24684D0100C5ADFC /* GamesPage.swift */,
+				5C707C7B2468B72100C5ADFC /* HorizontalScrollPage.swift */,
 				5C707C7124684D0A00C5ADFC /* AppsPage.swift */,
 				5C707C7324684D1500C5ADFC /* ArcadePage.swift */,
 				5C707C7524684D2000C5ADFC /* SearchPage.swift */,
@@ -293,6 +299,8 @@
 				5C707C4024684CB500C5ADFC /* SceneDelegate.swift in Sources */,
 				5C707C7824684D4000C5ADFC /* TabBarPage.swift in Sources */,
 				5C707C7624684D2000C5ADFC /* SearchPage.swift in Sources */,
+				5C707C7C2468B72100C5ADFC /* HorizontalScrollPage.swift in Sources */,
+				5C707C7A24688D8600C5ADFC /* FeaturedPostPage.swift in Sources */,
 				5C707C4224684CB500C5ADFC /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
