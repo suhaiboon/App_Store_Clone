@@ -37,7 +37,7 @@ struct GamesView: View {
                 })
                 Divider()
                 HorizontalScrollView(items: self.gameStorage.thisWeeksGame)
-                
+                Divider()
             }
         }
     }

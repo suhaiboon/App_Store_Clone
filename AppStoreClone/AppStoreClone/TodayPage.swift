@@ -26,11 +26,11 @@ struct TodayView: View {
                 }.padding([.leading,.trailing,.top])
                 
                 //Add the view to the stack
-                HighlightView(catagory: "Vacation", title: "Explore the Universe", message: "Be Bold and Travel The World ").frame(height: 500, alignment: .leading)
+                HighlightView(catagory: "Vacation", title: "Explore the Universe", message: "Be Bold and Travel The World ").frame(height: 400, alignment: .leading)
                 
-                HighlightView(catagory: "Vacation", title: "Explore the Universe", message: "Be Bold and Travel The World ").frame(height: 500, alignment: .leading)
+                HighlightView(catagory: "Vacation", title: "Explore the Universe", message: "Be Bold and Travel The World ").frame(height: 400, alignment: .leading)
                 
-                HighlightView(catagory: "Vacation", title: "Explore the Universe", message: "Be Bold and Travel The World ").frame(height: 500, alignment: .leading)
+                HighlightView(catagory: "Vacation", title: "Explore the Universe", message: "Be Bold and Travel The World ").frame(height: 400, alignment: .leading)
             }
         }
         

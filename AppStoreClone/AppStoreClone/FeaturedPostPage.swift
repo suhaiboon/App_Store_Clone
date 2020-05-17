@@ -20,7 +20,7 @@ struct FeaturedPostView : View {
             Text(titleText)
             Text(subtitleText).font(.subheadline).foregroundColor(.gray)
             Image(image).resizable().frame(width:(UIApplication.shared.windows.first?.frame.width ?? 0) - 20, height: 250, alignment: .center).cornerRadius(5)
-            }.frame(minWidth: 0, maxWidth: .infinity,alignment: .leading).padding(10)
+            }.frame(minWidth: 0, maxWidth: .infinity,alignment: .leading).padding(20)
         
     }
 }
